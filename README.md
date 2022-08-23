@@ -2,6 +2,8 @@
 
 `Uso`
 
+No olvides la config en .aws/credentials
+
 serverless create --template aws-nodejs --name curso-sls-hola-mundo
 
 serverless deploy
