@@ -26,7 +26,7 @@ serverless deploy function -f helloUser
 
 npm install --save querystring
 
-serveless offline
+serverless offline
 
 serverless remove
 
