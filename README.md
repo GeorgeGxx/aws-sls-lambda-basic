@@ -2,34 +2,12 @@
 
 `Uso`
 
-No olvides la config en .aws/credentials
+1.- No olvides la config en .aws/credentials
 
-serverless create --template aws-nodejs --name curso-sls-hola-mundo
+2.- Checa el archivo Notas.txt
 
-serverless deploy
+```
 
-serverless invoke local --function hello
+#### `Powered by GeorgeGxx`
 
-serverless invoke local -f hello -s dev
-
-serverless invoke -f hello -s dev
-
-serverless plugin install -n serverless-offline
-
-npm init -y
-
-npm install serverless-offline --save-dev
-
-serverless --verbose
-
-serverless deploy function -f helloUser
-
-npm install --save querystring
-
-serverless offline
-
-serverless remove
-
-serverless remove --stage dev --region us-east-1
-
-Descarga de Postman: https://www.postman.com/downloads/
+```
