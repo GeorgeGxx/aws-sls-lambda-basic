@@ -2,12 +2,8 @@
 
 `Uso`
 
-```
-
 1.- No olvides la config en .aws/credentials
 
-2.- Checa el archivo Notas.txt
-
-```
+2.- Checa el archivo [Notas](Notas.txt)
 
 #### `Powered by GeorgeGxx`
