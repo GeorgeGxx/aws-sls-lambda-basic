@@ -14,7 +14,7 @@ npm init -y
 
 npm install serverless-offline --save-dev
 
-serverless --verbose
+serverless deploy --verbose
 
 serverless deploy function -f helloUser
 
